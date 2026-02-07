@@ -1,0 +1,15 @@
+title: Surya Ram Portfolio
+description: Java Backend Developer | Spring Boot | APIs
+
+
+theme: minima
+
+
+plugins:
+- jekyll-feed
+
+
+nav_pages:
+- about.md
+- projects.md
+- resume.md
