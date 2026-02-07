@@ -8,8 +8,8 @@ title: Home
 <h1>Devulapalli Surya Sri Ram</h1>
 <p>Java Backend Developer • Spring Boot • Microservices • Cloud</p>
 <div class="hero-actions">
-<a class="btn primary" href="/projects/">View Projects</a>
-<a class="btn outline" href="/resume/">View Resume</a>
+<a class="btn primary" href="/projects.md/">View Projects</a>
+<a class="btn outline" href="/assets/Surya_Ram_Resume.pdf">View Resume</a>
 </div>
 </section>
 
